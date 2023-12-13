@@ -2,6 +2,7 @@
 **Introduction**
 
 The YouTube Data Harvesting and Warehousing project is dedicated to creating an intuitive Streamlit application that harnesses the capabilities of the Google API to gather significant insights from YouTube channels. This extracted information is efficiently stored in a MongoDB database, later transitioned to a SQL data warehouse, and finally presented for comprehensive analysis and exploration within the Streamlit app.
+
 **Key Technologies and Skills Used**
 
 1. Python Scripting
@@ -9,6 +10,7 @@ The YouTube Data Harvesting and Warehousing project is dedicated to creating an 
 3. API integration
 4. Streamlit
 5. Data Mangement using MongoDB and MySql
+   
 **Installation**
 
 1. pip install google-api-python-client
