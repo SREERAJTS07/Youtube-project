@@ -8,12 +8,12 @@ The YouTube Data Harvesting and Warehousing project is dedicated to creating an 
 4. Streamlit
 5. Data Mangement using MongoDB and MySql
 # Installation
-pip install google-api-python-client
-pip install pymongo
-pip install pandas
-pip install mysql-connector-python
-pip install streamlit
-pip install isodate
+1. pip install google-api-python-client
+2. pip install pymongo
+3. pip install pandas
+4. pip install mysql-connector-python
+5. pip install streamlit
+6. pip install isodate
 
 # Usage 
 To use this project, follow these steps:
