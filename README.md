@@ -21,6 +21,7 @@ The YouTube Data Harvesting and Warehousing project is dedicated to creating an 
 6. pip install isodate
 
 **Usage** 
+
 To use this project, follow these steps:
 
 1. Clone the repository: git clone [https://github.com/SREERAJTS07/Youtube-project/blob/main/mongo.py]
@@ -37,27 +38,34 @@ To use this project, follow these steps:
 - Gain insights into channel performance and more.
 
 **Retrieving data from the YouTube API**
+
 The project utilizes the Google API to retrieve comprehensive data from YouTube channels. The data includes information on channels, playlists, videos, and comments. By interacting with the Google API.
 
 **Storing data in MongoDB**
+
 The retrieved data is stored in a MongoDB database based on user authorization. If the data already exists in the database, it can be overwritten with user consent. This storage process ensures efficient data management and preservation, allowing for seamless handling of the collected data.
 
 **Migrating data to a SQL data warehouse**
+
 The application allows users to migrate data from MongoDB to a SQL data warehouse. Users can choose which channel's data to migrate. To ensure compatibility with a structured format, the data is cleansed using the powerful pandas library. Following data cleaning, the information is segregated into separate tables, including channels, playlists, videos, and comments, utilizing SQL queries.
 
 **Data Analysis**
+
 Channel Analysis: Channel analysis includes insights on playlists, videos, subscribers, views, likes, comments, and durations. Gain a deep understanding of the channel's performance and audience engagement through summaries.
 
 Video Analysis: Video analysis focuses on views, likes, comments, and durations, enabling both an overall channel and specific channel perspectives. Leverage visual representations and metrics to extract valuable insights from individual videos.
 The Streamlit app provides an intuitive interface to interact with the charts and explore the data visually. Users can customize filter data, and zoom in or out to focus on specific aspects of the analysis.
 
 **Contributing**
+
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 **License**
+
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 **Contact**
+
 📧 Email: sreeraj18surendran41@gmail.com
 
 🌐 LinkedIn: [https://www.linkedin.com/in/sreeraj-surendran-30b903221/]
