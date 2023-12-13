@@ -27,12 +27,12 @@ To use this project, follow these steps:
 4. Access the app in your browser at [http://localhost:8501]
 
 # Features
-Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
-Store the retrieved data in a MongoDB database.
-Migrate the data to a SQL data warehouse.
-Analyze and visualize data using Streamlit.
-Perform queries on the SQL data warehouse.
-Gain insights into channel performance and more.
+- Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
+- Store the retrieved data in a MongoDB database.
+- Migrate the data to a SQL data warehouse.
+- Analyze and visualize data using Streamlit.
+- Perform queries on the SQL data warehouse.
+- Gain insights into channel performance and more.
 
 # Retrieving data from the YouTube API
 The project utilizes the Google API to retrieve comprehensive data from YouTube channels. The data includes information on channels, playlists, videos, and comments. By interacting with the Google API.
