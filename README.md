@@ -21,10 +21,10 @@ The YouTube Data Harvesting and Warehousing project is dedicated to creating an 
 # Usage 
 To use this project, follow these steps:
 
-Step 1. Clone the repository: git clone [https://github.com/SREERAJTS07/Youtube-project/blob/main/mongo.py]  
-Step 2. Install the required packages : pip install -r requirements.txt
-Step 3. Run the Streamlit app: streamlit run mongo.py
-Step 4. Access the app in your browser at [http://localhost:8501]
+1. Clone the repository: git clone [https://github.com/SREERAJTS07/Youtube-project/blob/main/mongo.py]
+2. Install the required packages : pip install -r requirements.txt
+3. Run the Streamlit app: streamlit run mongo.py
+4. Access the app in your browser at [http://localhost:8501]
 
 # Features
 Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
